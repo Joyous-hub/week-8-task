@@ -1,0 +1,32 @@
+.App {
+  text-align: left;
+  text-transform: uppercase;
+}
+h1 {
+  color: rgb(170, 9, 9);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+}
+
+p {
+  color: navy;
+  font-size: 15px;
+  font-weight: 300;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 3%;
+}
+.bg-color {
+  background-color: #9593e7;
+  border-radius: 5%;
+  width: 350px;
+  height: 450px;
+  margin: 8px;
+}
+section {
+  display: flex;
+  justify-content: center;
+}
